@@ -10,6 +10,10 @@ public class Test {
 		System.out.print("Hellow World!");
 //      aJDKASHFJKfhklaskj	长长的顶顶顶顶	
 //		1321321as
+
+//       哈哈哈哈哈哈哈哈哈哈哈
+
+
 	}
 
 }
